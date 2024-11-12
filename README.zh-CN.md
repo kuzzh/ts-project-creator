@@ -26,7 +26,7 @@
 1. **克隆仓库**：
    ```bash
    git clone https://github.com/kuzzh/ts-project-creator.git
-   cd ts-project-creator
+   cd ts-project-creator/src
    ```
 
 2. **构建项目**：

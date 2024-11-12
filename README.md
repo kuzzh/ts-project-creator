@@ -26,7 +26,7 @@
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/kuzzh/ts-project-creator.git
-   cd ts-project-creator
+   cd ts-project-creator/src
    ```
 
 2. **Build the Project**:
